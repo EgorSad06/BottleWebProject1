@@ -40,6 +40,6 @@
 
         <p><textarea rows="2" cols="50" name="QUEST" placeholder="Your question"></textarea></p> 
         
-        <input calss="btn btn-default" type="submit" value="Send">
+        <p><input calss="btn btn-default" type="submit" value="Send"></p>
     </form>
 

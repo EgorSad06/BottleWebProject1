@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StandaloneTarget>
+    <PythonInterpreter>
+      <Id>Global|PythonCore|3.9</Id>
+    </PythonInterpreter>
+    <WorkingDirectory>C:\Users\Huawei\source\repos\BottleWebProject1\BottleWebProject1</WorkingDirectory>
+    <Script>C:\Users\Huawei\source\repos\BottleWebProject1\BottleWebProject1\app.py</Script>
+    <Arguments />
+  </StandaloneTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Huawei\AppData\Local\Temp\app_20260417(3).vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\Huawei\AppData\Local\Temp\app_20260417(4).vsp</Filename>
+    </Report>
+  </Reports>
+  <UseVTune>false</UseVTune>
+</ProfilingTarget>

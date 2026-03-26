@@ -1,0 +1,14 @@
+{
+    "mailtwo@mail.ru": {
+        "username": "EgorTwo",
+        "questions": [
+            "bla bla bla bla bla"
+        ]
+    },
+    "mail@mail.ru": {
+        "username": "Denis",
+        "questions": [
+            "Opa opa"
+        ]
+    }
+}

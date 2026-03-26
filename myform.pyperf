@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StandaloneTarget>
+    <PythonInterpreter>
+      <Id>Global|PythonCore|3.9</Id>
+    </PythonInterpreter>
+    <WorkingDirectory>C:\Users\Huawei\source\repos\BottleWebProject1\BottleWebProject1</WorkingDirectory>
+    <Script>C:\Users\Huawei\source\repos\BottleWebProject1\BottleWebProject1\myform.py</Script>
+    <Arguments />
+  </StandaloneTarget>
+  <UseVTune>false</UseVTune>
+</ProfilingTarget>

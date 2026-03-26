@@ -1,7 +1,7 @@
 """
 Routes and views for the bottle application.
 """
-
+from myform import my_form, show_data, show_json
 from bottle import route, view
 from datetime import datetime
 
